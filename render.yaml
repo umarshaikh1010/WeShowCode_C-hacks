@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nanoscholar
+    runtime: docker
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 8080
+
