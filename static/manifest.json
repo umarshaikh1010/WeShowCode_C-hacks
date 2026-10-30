@@ -1,0 +1,22 @@
+{
+  "name": "NanoScholar CBSE PCM Prep Engine",
+  "short_name": "NanoScholar",
+  "description": "Ultra-low bandwidth study portal for CBSE Class 11 & 12 PCM education",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0b0f33",
+  "theme_color": "#0b0f33",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32 48x48",
+      "type": "image/svg+xml"
+    }
+  ]
+}
